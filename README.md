@@ -9,7 +9,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/PabloMelo11/picpay-clone?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/PabloMelo11/picplay-clone">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/PabloMelo11/picpay-clone">
 	
   <a href="https://www.linkedin.com/in/pablo-melo-377297161/">
     <img alt="Made by Pablo Melo" src="https://img.shields.io/badge/made%20by-PabloMelo11-%2304D361">
