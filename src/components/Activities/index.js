@@ -35,7 +35,7 @@ export default function Activities() {
         <CardHeader>
           <Avatar source={avatar} />
           <Description>
-            <Bold>Voce</Bold> pagou a <Bold>@deboravianna</Bold>
+            <Bold>Voce</Bold> pagou a <Bold>@rocketseat</Bold>
           </Description>
         </CardHeader>
 
