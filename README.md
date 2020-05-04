@@ -60,3 +60,6 @@ This project was developed with the following technologies:
 - [Styled-components](https://styled-components.com/)
 - [React Native Reanimated](https://github.com/software-mansion/react-native-reanimated)
 - [React Navigation v5](https://reactnavigation.org/)
+
+
+Made with ♥ by Pablo Melo :wave: [Get in touch!](https://www.linkedin.com/in/pablo-melo-377297161/)
